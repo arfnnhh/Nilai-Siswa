@@ -75,7 +75,7 @@
     </div><br>
     
     <br>
-    <button type="submit" class="btn btn-primary mb-2" style="margin-left:890px">Masukan Data</button>
+    <button type="submit" class="btn btn-primary mb-2">Masukan Data</button>
     </form>
     <!-- Nilai END -->
 
