@@ -1,0 +1,6 @@
+dengan menggunakan aritmatika dan percabgangan, buatlah from html yang di gunakan yntuk input 6 nilai mapel.
+setelah di submit nilai akan di hitung dan menghasilkan 
+-jumlah total
+-rata rata
+-nilai max dan min
+-grade penilaian
